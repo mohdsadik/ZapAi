@@ -1,16 +1,13 @@
-# zapai
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# AI Music Generator App
+## Description: 
+  ### Generate music using the SunoAI API. Customize parameters such as genre, mood, and length to create unique compositions.
+## Technologies: 
+  ### AI API Integration, HTTP Requests, Audio Player.
+## Features:
+  ### SunoAI API for music generation.
+  ### Customizable music parameters.
+  ### Example scripts included.
+## Installation:
+  ### Clone the repository.
+  ### Set up the SunoAI API.
+  ### Run the app using `flutter run`.
